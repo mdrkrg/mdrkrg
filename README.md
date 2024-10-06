@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋, this is Midori Kurage
+
+I `^C` around web pages and then `"+p` into my editor.
 
 <!--
 **mdrkrg/mdrkrg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
